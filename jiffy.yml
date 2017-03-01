@@ -4,7 +4,6 @@ arguments:
   DockerUsername: toompeahill
   DockerConfigEnv: public
   DockerRepoName: repodocker
-  DockerEnvCred: jiffy/users/toompeahill/default/docker
   schedule:
       vpc:
           archive:
